@@ -5,9 +5,9 @@ Brisbane, Australia
 
 ---
 
-Designing enterprise AI and data platforms in the Microsoft ecosystem. My work spans Fabric Lakehouse architecture, Power Platform integrations, Azure AI systems, and Business Central solutions — delivered across enterprise clients in Australia.
+Designing enterprise data and AI platforms in the Microsoft ecosystem. My work spans Fabric Lakehouse architecture, Power Platform integrations, Azure AI systems, and Business Central solutions — delivered across enterprise clients in Australia.
 
-Current focus: enterprise-scale AI adoption patterns, multi-agent orchestration, and governed data platforms.
+Current focus: governed data platforms, enterprise-scale AI, and multi-agent orchestration.
 
 ---
 
